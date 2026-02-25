@@ -1,2 +1,14 @@
 # T.E.E.M.O
-This is T.E.E.M.O.. short for Terribly. Engineered. Experimental. Misery. Operator
+
+## This is T.E.E.M.O. short for Terribly. Engineered. Experimental. Misery. Operator
+
+## Just made this to play around with riot's [https://developer.riotgames.com/docs/lol#game-client-api_live-client-data-api](live client api) 
+
+## This "app" sucks, probably overengineered to hell and back aswell
+
+## But it's quite cool to me! :] Not sure where you would find a use for something so terrible.. lol
+
+
+# "FEATURES:"
+### • Laughs at you for dying
+### • Music for when u really zoomin (warwick/quinn/i hate you >:(->singed) mains stand up! 
