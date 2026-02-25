@@ -2,7 +2,7 @@
 
 ## This is T.E.E.M.O. short for Terribly. Engineered. Experimental. Misery. Operator
 
- Just made this to play around with riot's [https://developer.riotgames.com/docs/lol#game-client-api_live-client-data-api](live client api) 
+ Just made this to play around with riot's live client [https://developer.riotgames.com/docs/lol#game-client-api_live-client-data-api](api) 
 
  This "app" sucks, probably overengineered to hell and back aswell
 
