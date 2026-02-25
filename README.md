@@ -6,9 +6,9 @@
 
  This "app" sucks, probably overengineered to hell and back aswell
 
- But it's quite cool to me! :] Not sure where you would find a use for something so terrible.. lol
+ But it's quite cool to me! :] Not sure where you would find a use for something so terrible.. (and useless) lol
 
 
-# "FEATURES:"
-### • Laughs at you for dying
-### • Music for when u really zoomin (warwick/quinn/i hate you >:(->singed) mains stand up! 
+### **"FEATURES:"**
+### *• Laughs at you for dying*
+### *• Music for when u really zoomin (warwick/quinn/i hate you >:(->singed) mains stand up!* 
